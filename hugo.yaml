@@ -12,12 +12,6 @@ params:
   navbar:
     displayTitle: true
     displayLogo: true
-    # logo:
-    #   path: images/logo.svg
-    #   dark: images/logo.svg
-    #   link: /
-    #   width: 40
-    #   height: 20
     
 menu:
   main:

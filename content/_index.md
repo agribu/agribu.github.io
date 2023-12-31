@@ -5,5 +5,5 @@ draft = false
 +++
 
 {{< cards >}}
-  {{< card link="/docs/technical-notes" title="Technical Notes" subtitle="Miscellaneous notes to track ideas and learnings." >}}
+  {{< card link="/docs/technical-notes" title="Technical Notes" subtitle="Miscellaneous notes to track ideas and learnings." image="assets/technical-notes.jpg">}}
 {{< /cards >}}
