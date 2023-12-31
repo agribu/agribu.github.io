@@ -1,7 +1,29 @@
 baseURL: /
 languageCode: en-us
-title: My New Hugo Site
+title: gedankenbrut
 
 module:
   imports:
     - path: github.com/imfing/hextra
+
+enableInlineShortcodes: true
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/logo.svg
+      dark: images/logo.svg
+      link: /
+      width: 40
+      height: 20
+    
+menu:
+  main:
+    - name: Home
+      pageRef: /
+      weight: 1
+    - name: Documentation
+      pageRef: /documentation
+      weight: 2
