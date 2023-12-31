@@ -19,5 +19,5 @@ menu:
       pageRef: /
       weight: 1
     - name: Documentation
-      pageRef: /documentation
+      pageRef: /docs
       weight: 2
