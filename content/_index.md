@@ -5,6 +5,6 @@ draft = false
 +++
 
 {{< cards >}}
-  {{< card link="/docs/system-designs" title="System Designs" subtitle="Examining the details of chosen system architectures." image="assets/blueprints.jpeg">}}
+  {{< card link="/docs/system-designs" title="System Designs" subtitle="Examining the details of selected system architectures." image="assets/blueprints.jpeg">}}
   {{< card link="/docs/technical-notes" title="Technical Notes" subtitle="Miscellaneous notes to track ideas and learnings." image="assets/technical-notes.jpeg">}}
 {{< /cards >}}
