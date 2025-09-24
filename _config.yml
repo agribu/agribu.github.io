@@ -1,19 +1,14 @@
 title: 💡 gedankenbrut
+# email: your-email@example.com
+# description: "A personal site powered by YAT"
+# baseurl: "" # for user sites
 url: "https://gedankenbrut.de"
 
-tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 6
-
+remote_theme: jeffreytse/jekyll-theme-yat
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
-markdown: kramdown
-
-sass:
-  style: compressed
-
-exclude:
-- "*.gemspec"
-- LICENSE.md
-- CONTRIBUTING.md
-- README.md 
+yat:
+  date_format: "%Y-%m-%d"
+  show_excerpts: true
