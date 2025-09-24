@@ -1,3 +1,6 @@
 
 title: 💡 gedankenbrut
-theme: minima
+url: "https://gedankenbrut.de"
+plugins:
+  - jekyll-remote-theme
+theme: forty-jekyll-theme
