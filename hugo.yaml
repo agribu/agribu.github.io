@@ -12,12 +12,3 @@ params:
   navbar:
     displayTitle: true
     displayLogo: true
-    
-menu:
-  main:
-    - name: Home
-      pageRef: /
-      weight: 1
-    - name: Documentation
-      pageRef: /docs
-      weight: 2
